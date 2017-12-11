@@ -73,3 +73,7 @@ while True:
     pwm.set_pwm(0, 0, servo_max)
     time.sleep(1)
 """
+#Functions
+#If Statement
+#While/For Loops
+#Variables (Integers)
